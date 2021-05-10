@@ -6,7 +6,7 @@ public class ColorScript : MonoBehaviour
 {
     Vector3 scale = new Vector3(5f, 5f, 5f);
     Vector3 scale1 = new Vector3(1f, 1f, 1f);
-
+    Vector3 sca = new Vector3(1f, 1f, 1f);
 
     void Update()
     {
